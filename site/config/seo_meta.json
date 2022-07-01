@@ -1,25 +1,25 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "LUSID | Enchanted by Buns",
+  "titleTemplate": "%s - LUSID Storefront",
+  "description": "Lusid Fashion - https://lusid.fashion",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "LUSID | Enchanted by Buns",
+    "description": "Lusid Fashion - https://lusid.fashion",
     "type": "website",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "url": "https://lusid.fashion",
+    "site_name": "Lusid Fashion",
     "images": [
       {
         "url": "/card.png",
         "width": "800",
         "height": "600",
-        "alt": "Next.js Commerce"
+        "alt": "Lusid Fashion"
       }
     ]
   },
   "twitter": {
-    "handle": "@nextjs",
-    "site": "@nextjs",
+    "handle": "@Lusid",
+    "site": "@Lusid",
     "cardType": "summary_large_image"
   }
 }
