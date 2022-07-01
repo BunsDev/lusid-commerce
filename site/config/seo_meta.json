@@ -1,25 +1,25 @@
 {
-  "title": "LUSID | Enchanted by Buns",
+  "title": "LUSID | by Don",
   "titleTemplate": "%s - LUSID Storefront",
   "description": "Lusid Fashion - https://lusid.fashion",
   "openGraph": {
-    "title": "LUSID | Enchanted by Buns",
+    "title": "LUSID | by Don",
     "description": "Lusid Fashion - https://lusid.fashion",
     "type": "website",
     "url": "https://lusid.fashion",
-    "site_name": "Lusid Fashion",
+    "site_name": "Lusid Company",
     "images": [
       {
         "url": "/card.png",
         "width": "800",
         "height": "600",
-        "alt": "Lusid Fashion"
+        "alt": "Lusid Company"
       }
     ]
   },
-  "twitter": {
-    "handle": "@Lusid",
-    "site": "@Lusid",
+  "instagram": {
+    "handle": "@LusidCompany",
+    "site": "https://instagram.com/lusidcompany",
     "cardType": "summary_large_image"
   }
 }
