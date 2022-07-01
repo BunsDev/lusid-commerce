@@ -18,8 +18,8 @@ export function normalizeTestCheckout({
   shippingOption: string
 }): CommercejsCheckoutCapture {
   const firstName =
-    shippingInfo?.firstName || paymentInfo?.firstName || 'Nextjs'
-  const lastName = shippingInfo?.lastName || paymentInfo?.lastName || 'Commerce'
+    shippingInfo?.firstName || paymentInfo?.firstName || 'Lusid'
+  const lastName = shippingInfo?.lastName || paymentInfo?.lastName || 'Fashion'
   const fullName = `${firstName} ${lastName}`
   const postalCode = shippingInfo?.zipCode || paymentInfo?.zipCode || '94103'
   const street =
